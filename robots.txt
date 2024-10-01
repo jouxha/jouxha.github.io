@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jouxha.github.io/oTU/sitemap.oTU.gz
